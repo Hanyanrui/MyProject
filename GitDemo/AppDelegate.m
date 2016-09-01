@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-//这是我怎家的代码
+
 @interface AppDelegate ()
 
 @end
